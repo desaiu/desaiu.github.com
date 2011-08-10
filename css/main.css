@@ -1,4 +1,4 @@
-/	Resets
+/*	Resets
 	------	*/
 
 html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, 
@@ -29,6 +29,7 @@ wrapper {
 #tbar {
 	background-color: yellow;
 	height: 15px;
+    width: 100%;
 }
 header {
 	background-color: #800080;
@@ -78,7 +79,7 @@ h3 {
 }
 
 h4 {
-	color: pink;
+	color: yellow;
 	float: left;
 	font-size: 24px;
 	letter-spacing: -1px;
