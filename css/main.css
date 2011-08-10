@@ -86,12 +86,14 @@ h4 {
 	line-height: 30px;
 	margin-left: -60px;
 	padding-left: 0px;
-	padding-top: 28px;
+	padding-top: 68px;
 	word-spacing: -1px;
 }
 
 #food {
-padding-top: 100px;
+padding-left: 190px;
+padding-top: 170px;
+
 }
 
 .cta-button {
