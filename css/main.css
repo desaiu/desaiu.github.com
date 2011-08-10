@@ -1,0 +1,111 @@
+/	Resets
+	------	*/
+
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, 
+p, blockquote, pre, a, abbr, address, cite, code, del, dfn, em, 
+img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, hr, 
+dl, dt, dd, ol, ul, li, fieldset, form, label, legend, 
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figure, figcaption, hgroup, 
+menu, footer, header, nav, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+article, aside, canvas, figure, figure img, figcaption, hgroup,
+footer, header, nav, section, audio, video {
+	display: block;
+}
+
+a img {border: 0;}
+
+wrapper {
+    border:0;
+    margin:0;
+    padding:0;
+}
+
+#tbar {
+	background-color: yellow;
+	height: 15px;
+}
+header {
+	background-color: #800080;
+	height: 285px;
+    width: 100%;
+}
+
+#logo-symbol {
+	float: left;
+	margin: 0px;
+	padding-left: 139px;
+	padding-top: 79px;
+}
+
+h1 {
+	color: white;
+	float: left;
+	font-size: 98px;
+	letter-spacing: -5px;
+	margin: 0px;
+	padding-left: 24px;
+	padding-top: 75px;
+}
+
+h2 {
+	color: white;
+	float: left;
+	font-size: 29px;
+	letter-spacing: -1px;
+	line-height: 40px;
+	max-width: 458px; 
+	padding-left: 130px;
+	padding-top: 65px;
+	word-spacing: -2px;
+}
+
+h3 {
+	color: white;
+	float: left;
+	font-size: 24px;
+	letter-spacing: -1px;
+	line-height: 30px;
+	margin-left: -233px;
+	padding-left: 0px;
+	padding-top: 200px;
+	word-spacing: -1px;
+}
+
+h4 {
+	color: pink;
+	float: left;
+	font-size: 24px;
+	letter-spacing: -1px;
+	line-height: 30px;
+	margin-left: -60px;
+	padding-left: 0px;
+	padding-top: 28px;
+	word-spacing: -1px;
+}
+
+
+.cta-button {
+  background:url('../images/fourthefour.png') no-repeat 0 -65px;
+  display:block;
+  height: 65px;
+  margin: 0 auto;
+  width:320px;
+  padding-top: 100px;
+}
+.cta-button a {
+  display:block;
+  width:100%;
+  height:100%;
+  background:url('../images/fourthefour.png') no-repeat 0 0;
+  text-indent:-9999px;
+  padding-top: 100px;
+}
+.cta-button a:hover {
+  background-position:0 65px;
+}
